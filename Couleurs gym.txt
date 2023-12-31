@@ -1,0 +1,4 @@
+JAUNE :ffdf86
+NOIR GRIS CHELOU: 0d1215
+bleu :afe1e9
+gris violet chelou : 88879b
